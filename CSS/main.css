@@ -1,0 +1,258 @@
+@font-face
+{
+	font-family: "Post No Bills Jaffna SemiBold";
+	src: url("../fonts/PostNoBillsJaffna-SemiBold.ttf");
+}
+
+*{
+	margin: 0;
+	padding: 0;
+} 
+
+ body{
+ 	font-family: 'Playfair Display', serif;
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    background: #242B33;
+ }
+ 
+ .container{
+ 	width: 1100px;
+ 	margin: 0 auto;
+ }
+
+ .bg-light{
+ 	background: #242B33 !important; 
+ }
+
+.container-fluid{
+	display: flex;
+	justify-content: space-between;
+}
+
+ .navbar-brand{
+ 	color: white !important;
+ 	font-family: 'Post No Bills Jaffna SemiBold';
+ 	font-size: 36px;
+ }
+
+ .brand-span{
+ 	font-family: 'Raleway';
+ 	font-weight: 400;
+ 	font-size: 12px;
+ 	display: block;
+ 	letter-spacing: 0.12em;
+ }
+
+.navbar-nav{
+	margin: 0 0 0 auto;
+}
+
+.nav-link{
+	color: white !important;
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.carousel-caption{
+	text-align: center;
+}
+
+.center{
+	color: #D4C17F;
+	font-family: 'Playfair Display';
+	font-weight: 700;
+	font-size: 48px;
+	margin: 0 auto 322px auto;
+	width: 556px;
+}
+
+.center-span{
+	display: block;
+}
+
+.street{
+	margin: 0 auto;
+	width: 556px;
+	display: flex; 
+	justify-content: center;
+	justify-content: space-between;
+}
+
+.adress{
+	display: flex;
+	align-items: flex-end;
+}
+
+.phone{
+	display: flex;
+	align-items: flex-end;
+}
+
+.number-adress{
+	margin: 0 0 0 14px;
+	padding: 0;
+}
+
+.number-phone{
+	margin: 0 0 0 14px;
+	padding: 0;
+}
+
+ .wrapper-items{
+ 	display: flex;
+ 	justify-content: space-between;
+ 	align-items: flex-end;
+ }
+
+ .item{
+ 	color: white;
+ 	text-align: center;
+ }
+
+.text-bench{
+	width: 193px;
+ }
+
+ .text-build{
+ 	width: 133px;
+ }
+
+.text-fantaen{
+	width: 134px;
+}
+
+.text-bicycle{
+	width: 124px;
+}
+
+.item-text{
+	font-family: Roboto;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	margin: 53px 0 0 0;
+}
+
+.our{
+	color: #D4C17F;
+	font-family:'Playfair Display'; 
+	font-weight: 700;
+	font-size: 36px;
+}
+
+.flates-parent{
+	display: flex;
+}
+
+.flates-item{
+	position: relative;
+}
+
+.flates-rigth{
+	margin: 0 0 0 15px;
+}
+
+.flates-left{
+	margin: 0 15 0 0px;
+}
+
+.loft-item{
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 24px;
+	color: #FFFFFF;
+	position: absolute;
+	left: 50px;
+	bottom: 50px;
+}
+
+.wrapper-form{
+	color: #FFFFFF;
+	display: flex;
+	position: relative;
+}
+
+.text-form{
+	width: 535px;
+}
+
+.input-wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+
+.input{
+	width: 255px;
+	height: 50px;
+	background: rgba(255, 255, 255, 0.2);
+	margin: 0 0 35px 0;
+	text-align: center;
+	border: none;
+}
+
+.input-prgf{
+	margin: 0 0 0 30px;
+}
+
+.private{
+	width: 255px;
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 13px;
+	color: #E7E7E7;
+	text-align: center;
+}
+
+.kartinka{
+	width: 255px;
+	height: 150px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.end-text{
+	color: #FFFFFF;
+	display: flex;
+	justify-content: space-between;
+}
+
+.section-form{
+	display: flex;
+	margin: 50px 0 0 0;
+	justify-content: space-between;
+}
+
+.btn{
+	text-align: center;
+	color:  #FFFFFF;
+	background: #D4C17F;
+	width: 255px;
+	height: 50px;
+}
+
+.watch{
+	padding: 195px 0 165px 0;
+}
+
+footer{
+	margin: 180px 0 0 0;
+	background: #2D343C;
+}
+
+.map{
+	margin: 109px 0 180px 0;
+}
+
+.kvartira{
+	width: 560px;
+	height: 325px;
+}
+
+.txt-color{
+	color:#D4C17F;
+}
